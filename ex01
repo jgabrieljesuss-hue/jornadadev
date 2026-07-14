@@ -1,0 +1,4 @@
+FUCTION main()
+    QOut("Olá, mundo!")
+    QOut("Bem-vindo (a) à Jornada DEV START!")
+RETURN NILL
