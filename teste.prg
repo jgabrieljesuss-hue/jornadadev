@@ -10,3 +10,5 @@ FUNCTION Main()
     QOut("Curso: " + cCurso)
     QOut("===============================")
     RETURN NIL
+
+    // TIVE PROBLEMAS COM A ACENTUA€ÇO
