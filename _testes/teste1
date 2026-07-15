@@ -1,5 +1,0 @@
-FUNCTION Main()
-QOut ("Linha 1.")
-QQOut ("Sem ")
-QQOout("Pular linha")
-RETURN NIL
