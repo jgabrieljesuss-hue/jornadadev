@@ -6,4 +6,4 @@ Function Main()
     LOCAL dAdmissao
     LOCAL nCodidoDepartamento
 
-Return nil    
+Return nil
